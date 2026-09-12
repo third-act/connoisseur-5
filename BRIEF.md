@@ -2,7 +2,7 @@
 
 Draft for Demo QA port. Research date: **12 September 2026**. English (skills). App UI: **Swedish**.
 
-**Build gate:** OPEN — Norway Scout **DESIGN-BAKEOFF** 12 Sep 2026 (Composer Max). Not full Mail2 inbound.
+**Build gate:** OPEN — Norway Scout **kjør** 12 Sep 2026 (Composer Max bakeoff). Not full Mail2.
 
 **Track:** **design-bakeoff / Cursor-only**. **Composer Max** on all design steps. Soft depth (brand is light paper + gold — not a fully dark app). Gold densitet bar: **caiacosmetics-4**. Splash + 3–5 tab roots; mock OK. No Opus. No Mail 1/2.
 
