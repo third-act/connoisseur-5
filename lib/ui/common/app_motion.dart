@@ -1,5 +1,4 @@
 import 'package:flutter/animation.dart';
-import 'package:flutter/physics.dart';
 
 /// Motion tokens — durations for system-driven motion; [spring] for finger-driven.
 class AppMotion {

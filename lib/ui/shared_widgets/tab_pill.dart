@@ -17,8 +17,8 @@ import '../common/app_space.dart';
 class TabPill extends StatelessWidget {
   TabPill({
     super.key,
-    required IconData this.icon,
-    required String this.label,
+    required this.icon,
+    required this.label,
     required this.selected,
     this.onTap,
     this.axis = Axis.horizontal,
